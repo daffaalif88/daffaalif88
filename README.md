@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @daffaalif88
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Yii, Yii2, and Laravel
-- 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me mail: adaffa059@gmail.com
+- 💞️ I’m looking to collaborate on big project in Elon Must company
+- 📫 How to reach me you can mail to: adaffa059@gmail.com
 - 😄 Pronouns: TF with Pronouns
 - ⚡ Fun fact: i think I'm hansome
 
